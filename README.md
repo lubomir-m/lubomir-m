@@ -1,9 +1,13 @@
 ### Hi there 👋
+Welcome to my GitHub profile!
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=lbmrmnkvsk&theme=dark&hide_current_streak=true&hide_longest_streak=true)
 
 # My Software Engineering Journey
 
-Welcome to my GitHub profile! I have taken a total of 14 Software Engineering courses at Software University ([SoftUni](https://softuni.bg/)) and I have solved the problems given as exercises for each course.
+I am becoming a better Software Engineer by solving different problems on LeetCode. You can view my LeetCode profile [here](https://leetcode.com/lbmrmnkvsk/) for statistics.
+
+I have taken a total of 14 Software Engineering courses at Software University ([SoftUni](https://softuni.bg/)) and I have solved the problems given as exercises for each course.
 
 ## List of Courses
 
