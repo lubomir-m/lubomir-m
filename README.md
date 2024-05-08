@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lbmrmnkvsk&theme=dark&hide_current_streak=true&hide_longest_streak=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=lbmrmnkvsk&theme=dark&hide_current_streak=true&hide_longest_streak=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=pie)](https://github.com/lbmrmnkvsk/github-readme-stats)
 
 # My Software Engineering Journey
