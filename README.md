@@ -1,72 +1,26 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
 
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbmrmnkvsk&theme=github)
+![image](https://github-readme-activity-graph.vercel.app/graph?username=lbmrmnkvsk&theme=github)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=lbmrmnkvsk&theme=dark&hide_current_streak=true&hide_longest_streak=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=pie&langs_count=8)](https://github.com/lbmrmnkvsk/github-readme-stats)
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /></div>
 
-# My Software Engineering Journey
+<div style="display: flex; align-items: flex-start;">
+   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="200" height="200" tile="Java"/>
+   <img width="200" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>
+   <img width="200" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
+   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="200" height="200" tile="MySQL"/>
+   <img width="200" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
+   <img width="200" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="200" height="200" tile="GitHub"/>
+   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="200" height="200" tile="JavaScript"/>
+   <img width="200" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+   <img height="200" width="200" src="https://cdn.simpleicons.org/thymeleaf" tile="Thymeleaf"/>
+   <img width="200" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+   <img width="200" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
 
-I am becoming a better Software Engineer by solving different problems on LeetCode. You can view my LeetCode profile [here](https://leetcode.com/lbmrmnkvsk/) for statistics.
-
-I have taken a total of 14 Software Engineering courses at Software University ([SoftUni](https://softuni.bg/)) and I have solved the problems given as exercises for each course.
-
-## List of Courses
-
-1. **Programming Basics with Java, October 2022**
-   - [Course Description](https://softuni.bg/trainings/3872/programming-basics-with-java-october-2022)
-   - [Certificate](https://softuni.bg/certificates/details/147446/af788b6d)
-
-2. **Programming Fundamentals with Java, January 2023**
-   - [Course Description](https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023)
-   - [Certificate](https://softuni.bg/certificates/details/167501/87fe68c8)
-
-3. **Java Advanced, May 2023**
-   - [Course Description](https://softuni.bg/trainings/4100/java-advanced-may-2023)
-   - [Certificate](https://softuni.bg/certificates/details/174511/3cf345dc)
-
-4. **Java Object-Oriented Programming, June 2023**
-   - [Course Description](https://softuni.bg/trainings/4101/java-oop-june-2023)
-   - [Certificate](https://softuni.bg/certificates/details/181402/05619b07)
-
-5. **HTML & CSS, September 2023**
-   - [Course Description](https://softuni.bg/trainings/4239/html-and-css-september-2023)
-   - [Certificate](https://softuni.bg/certificates/details/190675/71e842f5)
-
-6. **JavaScript, October 2023**
-   - [Course Description](https://softuni.bg/trainings/4240/js-front-end-october-2023)
-   - [Certificate](https://softuni.bg/certificates/details/199093/da836119)
-
-7. **Data Structures Fundamentals with Java, September 2023**
-   - [Course Description](https://softuni.bg/trainings/4275/data-structures-fundamentals-with-java-september-2023)
-   - [Certificate](https://softuni.bg/certificates/details/185535/fb0c95a7)
-
-8. **Data Structures Advanced with Java, November 2023**
-   - [Course Description](https://softuni.bg/trainings/4276/data-structures-advanced-with-java-november-2023)
-   - [Certificate](https://softuni.bg/certificates/details/195547/e9c26f28)
-
-9. **Algorithms Fundamentals with Java, May 2023**
-   - [Course Description](https://softuni.bg/trainings/4176/algorithms-fundamentals-with-java-may-2023)
-   - Certificate: I do not have a certificate for this course because I took the May 2023 edition of the course in January 2024 and there was no exam available at that time. Passing an exam is a requirement for being issued a certificate.
-
-10. **Algorithms Advanced with Java, July 2023**
-    - [Course Description](https://softuni.bg/trainings/4179/algorithms-advanced-with-java-july-2023)
-    - Certificate: I do not have a certificate for this course because I took the July 2023 edition of the course in February 2024 and there was no exam available at that time. Passing an exam is a requirement for being issued a certificate.
-
-11. **MySQL, January 2024**
-    - [Course Description](https://softuni.bg/trainings/4365/mysql-january-2024)
-    - [Certificate](https://softuni.bg/certificates/details/202745/c57d40c1)
-
-12. **Spring Data, February 2024**
-    - [Course Description](https://softuni.bg/trainings/4366/spring-data-february-2024)
-    - [Certificate](https://softuni.bg/certificates/details/209318/10bb7004)
-
-13. **Spring Fundamentals, September 2023**
-    - [Course Description](https://softuni.bg/trainings/4235/spring-fundamentals-september-2023)
-    - Certificate: I will receive the certificate after the exam on June 23, 2024
-
-14. **Spring Advanced, October 2023**
-    - [Course Description](https://softuni.bg/trainings/4236/spring-advanced-october-2023)
-    - Certificate: I will receive the certificate after the exam on August 10, 2024
-
-
+   
+</div>
