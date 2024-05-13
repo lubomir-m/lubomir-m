@@ -2,8 +2,8 @@
 Welcome to my GitHub profile!
 
 <div>
-   <img src="https://streak-stats.demolab.com?user=lbmrmnkvsk&theme=dark&hide_current_streak=true&hide_longest_streak=true"  width="400" title="Total Contributions"/><br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=pie&langs_count=8"  width="400" title="Most Used Languages"/>
+   <img src="https://streak-stats.demolab.com?user=lbmrmnkvsk&theme=dark&hide_current_streak=true&hide_longest_streak=true"  width="300" title="Total Contributions"/><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=pie&langs_count=8"  width="300" title="Most Used Languages"/>
 </div>
 
 <div style="display: flex; align-items: flex-start;">
