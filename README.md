@@ -3,12 +3,15 @@ Welcome to my GitHub profile!
 
 <div >
    <div >
-       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="195" height="195" title="Java"/>
+       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="250" height="250" title="Java"/>
        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lbmrmnkvsk" alt="GitHub Streak" /></a>
    </div>
-
-  <img src="https://leetcard.jacoblin.cool/lbmrmnkvsk?theme=light&font=Gayathri&ext=activity&animation=true"   height="350" title="LeetCode Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=pie&langs_count=8" height="350"  title="Most Used Languages"/>
+   <br>
+   
+  <img src="https://leetcard.jacoblin.cool/lbmrmnkvsk?theme=light&font=Gayathri&ext=activity&animation=true"   height="380" title="LeetCode Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=pie&langs_count=8" height="380"  title="Most Used Languages"/>
+   
+  <br>
   
   <div>
     <img width="100" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>
