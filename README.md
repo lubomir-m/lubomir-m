@@ -22,7 +22,9 @@ Welcome to my GitHub profile!
     <img height="100" width="100" src="https://cdn.simpleicons.org/thymeleaf" title="Thymeleaf"/>
      <img height="100" width="100" src="https://cdn.simpleicons.org/youtube" title="YouTube"/>
      <img height="100" width="100" src="https://cdn.simpleicons.org/spotify" title="Spotify"/>
-     <img height="100" width="100" src="https://cdn.simpleicons.org/imdb" title="IMDb"/>
+     <img height="100" width="100" src="icons/imdb.svg" title="IMDb"/>
+     <img height="100" width="100" src="icons/kindle.webp" title="Kindle"/>
+     <img height="100" width="100" src="icons/google_chrome.webp" title="Google Chrome"/>
     <img width="100" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
     <img width="100" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
   </div>
