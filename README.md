@@ -1,12 +1,10 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbmrmnkvsk&theme=github)
-![image](https://github-readme-activity-graph.vercel.app/graph?username=lbmrmnkvsk&theme=github)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lbmrmnkvsk&theme=dark&hide_current_streak=true&hide_longest_streak=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=pie&langs_count=8)](https://github.com/lbmrmnkvsk/github-readme-stats)
+<div>
+   <img src="https://streak-stats.demolab.com?user=lbmrmnkvsk&theme=dark&hide_current_streak=true&hide_longest_streak=true"  width="400" title="Total Contributions"/><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=pie&langs_count=8"  width="400" title="Most Used Languages"/>
+</div>
 
 <div style="display: flex; align-items: flex-start;">
    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="200" height="200" tile="Java"/>
@@ -21,6 +19,4 @@ Welcome to my GitHub profile!
    <img height="200" width="200" src="https://cdn.simpleicons.org/thymeleaf" tile="Thymeleaf"/>
    <img width="200" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
    <img width="200" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
-
-   
 </div>
