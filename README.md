@@ -1,5 +1,3 @@
-### Hi there 👋
-Welcome to my GitHub profile!
 <div >
    <div>
        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="170" height="170" title="Java"/>
