@@ -1,17 +1,17 @@
 <div >
    <div>
        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="170" height="170" title="Java"/>
-       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lbmrmnkvsk&card_width=525&card_height=170" 
+       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lubomir-m&card_width=525&card_height=170" 
            alt="GitHub Streak" title="Total Contributions"/></a>
    </div>
 
    <br>
 
    <div>
-      <a href="https://leetcode.com/u/lbmrmnkvsk/"> 
-         <img src="https://leetcard.jacoblin.cool/lbmrmnkvsk?theme=light&font=Noto%20Sans&animation=true" 
+      <a href="https://leetcode.com/u/lubomir-m/"> 
+         <img src="https://leetcard.jacoblin.cool/lubomir-m?theme=light&font=Noto%20Sans&animation=true" 
             height="150" title="LeetCode Statistics"/></a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=compact&langs_count=8" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubomir-m&layout=compact&langs_count=8" 
          height="150" title="Most Used Languages"/>
    </div>
    
