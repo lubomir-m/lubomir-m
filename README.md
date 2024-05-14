@@ -9,7 +9,7 @@
 
    <div>
       <a href="https://leetcode.com/u/lubomir-m/"> 
-         <img src="https://leetcard.jacoblin.cool/lubomir-m?theme=light&font=Noto%20Sans&animation=true" 
+         <img src="https://leetcard.jacoblin.cool/lubomir-m?theme=light&font=Noto%20Sans&animation=false" 
             height="150" title="LeetCode Statistics"/></a>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubomir-m&layout=compact&langs_count=8" 
          height="150" title="Most Used Languages"/>
