@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 <div >
    <div >
        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="250" height="250" title="Java"/>
-       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lbmrmnkvsk&card_width=550&card_height=220" 
+       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lbmrmnkvsk&card_width=492&card_height=210" 
            alt="GitHub Streak" title="Total Contributions"/></a>
    </div>
 
@@ -12,10 +12,10 @@ Welcome to my GitHub profile!
 
    <div>
       <a href="https://leetcode.com/u/lbmrmnkvsk/"> 
-         <img src="https://leetcard.jacoblin.cool/lbmrmnkvsk?theme=light&font=Gayathri&ext=activity&animation=true" 
-            height="380" title="LeetCode Statistics"/></a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&layout=pie&langs_count=8" height="380"  
-         title="Most Used Languages"/>
+         <img src="https://leetcard.jacoblin.cool/lbmrmnkvsk?theme=light&font=Noto%20Sans&ext=activity&animation=true" 
+            height="300" title="LeetCode Statistics"/></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbmrmnkvsk&langs_count=8" 
+         height="300" title="Most Used Languages"/>
    </div>
   
 
