@@ -21,8 +21,7 @@
     <img width="75" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" 
       title="Spring Boot"/>
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" title="MySQL"/>
-    <img width="75" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" 
-        title="IntelliJ IDEA"/>
+    <img width="75" height="75" src="icons/intllij_idea.png" alt="IntelliJ" title="IntelliJ IDEA"/>
     <img width="75" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" title="GitHub"/>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" title="JavaScript"/>
