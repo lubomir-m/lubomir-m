@@ -1,4 +1,4 @@
-<div >
+<div>
    <div>
        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="170" height="170" title="Java"/>
        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lubomir-m&card_width=525&card_height=170" 
@@ -26,7 +26,7 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" title="GitHub"/>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" title="JavaScript"/>
     <img width="75" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
-     <img height="75" width="75" src="https://cdn.simpleicons.org/thymeleaf" title="Thymeleaf"/>
+    <img height="75" width="75" src="https://cdn.simpleicons.org/thymeleaf" title="Thymeleaf"/>
   </div>
   
   <div>
@@ -37,8 +37,8 @@
      <img height="75" width="75" src="icons/kindle.webp" title="Kindle"/>
      <img height="75" width="75" src="icons/amazon.svg" title="Amazon"/>
      <img height="75" width="75" src="icons/leetcode.png" title="LeetCode"/>
-    <img width="75" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-    <img width="75" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" 
+     <img width="75" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+     <img width="75" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" 
          title="Bootstrap"/>
   </div>
   
