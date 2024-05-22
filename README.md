@@ -27,6 +27,7 @@
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" title="JavaScript"/>
     <img width="75" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
     <img height="75" width="75" src="https://cdn.simpleicons.org/thymeleaf" title="Thymeleaf"/>
+     <img height="75" width="75" src="icons/google_chrome.webp" title="Google Chrome"/>
   </div>
   
   <div>
