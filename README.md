@@ -1,7 +1,9 @@
+
 <div>
    <div>
        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="170" height="170" title="Java"/>
-       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lubomir-m&card_width=592&card_height=170" 
+      <img height="120" width="120" src="icons/spring.webp" title="Spring Framework"/>
+       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lubomir-m&card_width=490&card_height=170" 
            alt="GitHub Streak" title="Total Contributions"/></a>
    </div>
 
@@ -16,7 +18,7 @@
    </div>
    
   <div>
-    <img height="75" width="75" src="https://github.com/lubomir-m/lubomir-m/blob/main/icons/spring.gif" title="Spring Framework"/>
+    <img height="75" width="75" src="icons/spring.webp" title="Spring Framework"/>
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" title="MySQL"/>
     <img width="75" height="75" src="icons/intellij_idea.png" alt="IntelliJ" title="IntelliJ IDEA"/>
     <img height="75" width="75" src="icons/leetcode.png" title="LeetCode"/>
