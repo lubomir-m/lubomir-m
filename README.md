@@ -16,8 +16,7 @@
    </div>
    
   <div>
-    <img width="75" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring"    
-        title="Spring"/>
+    <img height="75" width="75" src="https://github.com/lubomir-m/lubomir-m/blob/main/icons/spring.gif" title="Spring Framework"/>
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" title="MySQL"/>
     <img width="75" height="75" src="icons/intellij_idea.png" alt="IntelliJ" title="IntelliJ IDEA"/>
     <img height="75" width="75" src="icons/leetcode.png" title="LeetCode"/>
