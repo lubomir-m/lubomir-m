@@ -16,7 +16,7 @@
    </div>
    
   <div>
-    <img height="75" width="75" src="icons/spring.gif" title="Spring Framework"/>
+    <img height="75" width="75" src="https://github.com/lubomir-m/lubomir-m/blob/main/icons/spring.gif" title="Spring Framework"/>
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" title="MySQL"/>
     <img width="75" height="75" src="icons/intellij_idea.png" alt="IntelliJ" title="IntelliJ IDEA"/>
     <img height="75" width="75" src="icons/leetcode.png" title="LeetCode"/>
