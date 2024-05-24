@@ -2,8 +2,7 @@
 <div>
    <div>
        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="170" height="170" title="Java"/>
-      <img height="120" width="120" src="icons/spring.webp" title="Spring Framework"/>
-       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lubomir-m&card_width=490&card_height=170" 
+       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lubomir-m&card_width=592&card_height=170" 
            alt="GitHub Streak" title="Total Contributions"/></a>
    </div>
 
