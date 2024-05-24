@@ -22,9 +22,9 @@
     <img width="75" height="75" src="icons/intellij_idea.png" alt="IntelliJ" title="IntelliJ IDEA"/>
     <img height="75" width="75" src="icons/leetcode.png" title="LeetCode"/>
     <img width="75" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" title="GitHub"/>
-    <img height="75" width="75" src="icons/github_copilot.png" title="GitHub Copilot"/>
-    <img height="60" width="75" src="https://cdn.simpleicons.org/openai/000000" title="ChatGPT"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75"  title="GitHub"/>
+    <img  width="75" src="icons/github_copilot.png" title="GitHub Copilot"/>
+    <img height="75" width="75" src="https://cdn.simpleicons.org/openai/000000" title="ChatGPT"/>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" title="JavaScript"/>
      <img width="75" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
   </div>
