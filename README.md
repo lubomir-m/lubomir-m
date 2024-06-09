@@ -19,7 +19,7 @@
   <div>
     <img height="75" width="75" src="icons/spring.webp" title="Spring Framework"/>
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" title="MySQL"/>
-    <img width="75" height="75" src="icons/intellij_idea.png" alt="IntelliJ" title="IntelliJ IDEA"/>
+    <img width="75" height="75" src="icons/intellij.png" alt="IntelliJ" title="IntelliJ IDEA"/>
     <img height="75" width="75" src="icons/leetcode.png" title="LeetCode"/>
     <img width="75" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75"  title="GitHub"/>
